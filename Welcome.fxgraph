@@ -1,0 +1,8 @@
+
+import javafx.scene.layout.AnchorPane
+
+component Welcome {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}
